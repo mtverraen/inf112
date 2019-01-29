@@ -71,6 +71,8 @@ and any changes planned for the first iteration of the programming project. Uplo
 
 ## Assessment criteria and weighting
 
+**Submission deadline: February 8th, 2019, 16:00**
+
 to get the thesis approved, the group must:
 
 * Create a repo structure as described in task 1.
@@ -79,6 +81,8 @@ to get the thesis approved, the group must:
 * Upload the delivery to github in markdown format.
 * Delivery should be uploaded in separate folder in repo, called "Deliverables". Each oblig becomes "MandatoryX.md" in that folder. Any slides can be uploaded to the same folder.
 * Take a commit of the source code that is the delivery of each oblig. This makes it easier for those who are considering doing so at the right time.
+
+**Your team will also be evaluated on the your teamwork, in addition to the sourcecode and other documentation.**
 
 To get the assignment approved, each team member must:
 

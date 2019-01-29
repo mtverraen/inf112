@@ -73,6 +73,7 @@ Last opp lysbildene som skal brukes til presentasjonen i lagets repo, før innle
 
 ## Vurderingskriterier og vekting
 
+**Innleveringsfrist: 8. februar 2019, klokken 16.00**
 for å få oppgaven godkjent, må gruppen:
 
 * Opprette en repo-struktur som beskrevet i oppgave 1.
@@ -81,6 +82,8 @@ for å få oppgaven godkjent, må gruppen:
 * Laste opp leveransen til github i markdown-format.
 * Leveransen skal lastes opp i egen mappe i repoet, som heter "Deliverables". Hver oblig blir da "ObligX.md" i den mappen. Eventuelle slides kan lastes inn opp til samme mappe.
 * Tag en commit av kildekoden som er leveransen til hver oblig. Dette gjør det enklere for de som skal vurdere å gjøre det på riktig tidspunkt.
+  
+**I tillegg til koden, vil dere også vurderes på teamarbeidet gjennom semesteret.**
 
 For å få oppdraget godkjent, må hvert lagmedlem:
 
